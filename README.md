@@ -1,10 +1,10 @@
 # messaribot
 
-## Objective
+### Objective
 
 **Messaribot** is a very simple bot which plots cryptocurrency data to assigned Discord channels.
 
-## Dependencies
+### Dependencies
 
 ```
 import os
@@ -20,9 +20,9 @@ import matplotlib.pyplot as plt
 import discord
 ```
 
-## Variables
+### Variables
 
-### messari_fetch.py
+#### messari_fetch.py
 
 Line #30
 ```
@@ -36,7 +36,7 @@ plt.savefig("/YOUR/FILEPATH/NAME/HERE/toast.png")
 
 
 
-### messaribot.py
+#### messaribot.py
 
 Line #10
 ```
