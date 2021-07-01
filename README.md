@@ -24,19 +24,19 @@ import discord
 
 #### messari_fetch.py
 
-Line #30: create a [free account here](https://messari.io/)
+Line #30: create a [free account here](https://messari.io/).
 ```
 api_key = "YOUR_MESSARI_API_KEY_HERE"
 ```
 
-Line #102
+Line #102: change file path name.
 ```
 plt.savefig("/YOUR/FILEPATH/NAME/HERE/toast.png")
 ```
 
 #### messaribot.py
 
-Line #9: if you want a different command prefix instead of $ sign
+Line #9: if you want a different command prefix instead of using the $ sign.
 ```
 client = commands.Bot(command_prefix = '$')
 ```
@@ -46,7 +46,7 @@ Line #10: instructions can be [found here](https://discordpy.readthedocs.io/en/s
 TOKEN = 'YOUR_DISCORD_SECRET_TOKEN_HERE'
 ```
 
-Line #23
+Line #23: chnage file path name.
 ```
 ctx.send(file=discord.File(r'/YOUR/FILEPATH/NAME/HERE/toast.png'))
 ```
