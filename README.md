@@ -4,6 +4,8 @@
 
 **Messaribot** is a very simple bot which plots cryptocurrency data to assigned Discord channels.
 
+This is written in Python, crytpo data is pulled from the [Messari API](https://messari.io/api), and relies on the [discord.py](https://discordpy.readthedocs.io/en/stable/) API wrapper to publish the finished graphs.
+
 ### Dependencies
 
 ```
@@ -74,6 +76,4 @@ $messaribot btc
 ### Appendix
 
 * [article link](https://www.christopheryee.org/)
-
-
 
