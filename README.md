@@ -43,7 +43,7 @@ Line #9: if you want a different command prefix instead of using the $ sign.
 client = commands.Bot(command_prefix = '$')
 ```
 
-Line #10: instructions can be [found here](https://discordpy.readthedocs.io/en/stable/discord.html)
+Line #10: instructions can be [found here](https://discordpy.readthedocs.io/en/stable/discord.html).
 ```
 TOKEN = 'YOUR_DISCORD_SECRET_TOKEN_HERE'
 ```
@@ -75,5 +75,5 @@ $messaribot btc
 
 ### Appendix
 
-* [article link](https://www.christopheryee.org/)
+* [https://www.christopheryee.org/blog/messaribot-cryptocurrency-charts-for-discord/](https://www.christopheryee.org/blog/messaribot-cryptocurrency-charts-for-discord/)
 
